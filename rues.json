@@ -1,0 +1,1451 @@
+[
+{
+    "type": "header",
+    "version": "4.9.6",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "fxrg_fsville"
+},
+{
+    "type": "table",
+    "name": "rue",
+    "database": "fxrg_fsville",
+    "data": 
+[
+{
+    "id_rue": "2",
+    "nom": "rue De-Candolle",
+    "tri": "De-Candolle",
+    "dimension": "451 m.",
+    "description": "Augustin-Pyramus de Candolle (1778-1841), éminent botaniste genevois, est à l'origine, en 1817, du Jardin botanique de Genève, originellement attenant à la Rue De-Candolle avant de quitter le Jardin des Bastions en 1902, pour gagner la rive droite.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "8",
+    "nom": "rue Sismondi",
+    "tri": "Sismondi",
+    "dimension": "168 m.",
+    "description": "Jean-Charles-Léonard Sismonde, dit Sismondi (1773-1842): économiste, historien, philosophe. On aurait tort de résumer les nombreux traités d'histoire et d'économie politique dont il est l'auteur par cette citation: <q>le but de la société humaine doit être le progrès des hommes, non celui des choses<\/q>.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "4",
+    "nom": "quai Wilson",
+    "tri": "Wilson",
+    "dimension": "580 m.",
+    "description": "Woodrow Wilson (1856-1924), le 28<sup>ème<\/sup> président des États-Unis, fut pour beaucoup dans le choix de Genève pour accueillir la Société des Nations. Jusqu'à son déménagement en 1938 pour le Palais de l'Ariana, la <acronym title=&quot;Société des Nations&quot;>SDN<\/acronym> siégeait sur ce quai, dans l'Hôtel National renommé Palais Wilson en 1920.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "5",
+    "nom": "promenade de la Treille",
+    "tri": "Treille",
+    "dimension": "350 m.; <br>6 341 m2",
+    "description": "Créée en 1515 sur les Crêts-Baudet, la plus ancienne promenade de la ville doit son nom à la vigne qui, à l'époque, couvrait encore une partie de ce terrain. Aménagée et bordée de grands arbres au XVIII<sup>ème<\/sup> siècle, la Promenade doit son indéfectible popularité à sa vue imprenable et à son <q>plus long banc du monde<\/q> (1767).",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "6",
+    "nom": "avenue des Tilleuls",
+    "tri": "Tilleuls",
+    "dimension": "596 m.",
+    "description": "<q>Aux branches des tilleuls, au pignon des tourelles, <br>Sans crainte revenez vous poser, tourterelles<\/q> (Théophile Gautier, <span class=\"ouvrage\">Fantaisies<\/span>, III) ",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "7",
+    "nom": "rue Tabazan",
+    "tri": "Tabazan",
+    "dimension": "94 m.",
+    "description": "François Tabazan (1534-1624), est le plus célèbre des représentant d'une famille de bourreaux. C'est lui qui exécuta les Savoyards faits prisonniers lors de l'escalade et le souvenir de son geste se pérennise grâce au quatrain 32 du <span class=\"ouvrage\">C'é qu'è l'ainô<\/span>, chant national de la République et Canton de Genève: <q>Vaissia vegni Messieur de la Justice,\/ Et le cheuti que quemança de dire: \/ <em>La Bravada, va cria Tabazan! \/ Ouai, sans failli, Monsieur, z'i vai de gran<\/em>.<\/q>",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "9",
+    "nom": "quai du Seujet",
+    "tri": "Seujet, quai du",
+    "dimension": "663 m.",
+    "description": "La partie du quai du Rhône entre le Creux de Saint-Jean et le Pont de la Coulouvrenière emprunta son nom au quartier du Seujet, rasé dans les années 30. Auparavant, c'était l'actuel quai Turettini qui portait ce nom. Le toponyme <q>Seujet<\/q> évoque probablement les saules (<em>saudja<\/em> en patois) qu'on devait y trouver.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "10",
+    "nom": "cour de Saint-Pierre",
+    "tri": "Saint-Pierre",
+    "dimension": "26 m. (périmètre)",
+    "description": "La Cathédrale Saint-Pierre, vouée au saint Apôtre, abritait, selon la légende populaire, une relique d'importance: le cerveau de Saint-Pierre. Cependant, rapporte le <span class=\"ouvrage\">Chroniqueur, Recueil historique et journal de l'Helvétie Romande<\/span> dans son numéro du 15 décembre 1835, <q>quand on a ouvert les chasses où se tenait [la] relique, on n'a trouvé pour le cerveau de St-Pierre qu'une pierre ponce<\/q>.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "11",
+    "nom": "rue Saint-Ours",
+    "tri": "Saint-Ours",
+    "dimension": "112 m.",
+    "description": "Jean-Pierre Saint-Ours (1752-1809), peintre portraitiste et paysagiste néoclassique genevois. Lauréat du grand Prix de Rome en 1780, il connut la célébrité en France et en Italie avant de revenir à Genève, où il s'occupa d'affaires publiques.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "12",
+    "nom": "rue de Saint-Jean",
+    "tri": "Saint-Jean",
+    "dimension": "1172 m.",
+    "description": "Le prieuré de Saint-Jean-de-Genève, détruit en 1535, a donné son nom à tout ce quartier de la rive droite.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "13",
+    "nom": "rue du Rhône",
+    "tri": "Rhône",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "14",
+    "nom": "rond-point de Plainpalais",
+    "tri": "Plainpalais, rond-point de",
+    "dimension": "253 m. (périmètre)",
+    "description": "Le rond-point de Plainpalais est l'antichambre du vaste <em>Planus palus<\/em>, plaine marécageuse devenue terrain d'accueil pour puciers, forains et gens du cirque.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "15",
+    "nom": "chemin Paul-Seippel",
+    "tri": "Seippel, chemin Paul",
+    "dimension": "281 m.",
+    "description": "Paul Seippel (1856-1926), historien et écrivain genevois.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "16",
+    "nom": "rue Pellegrino-Rossi",
+    "tri": "Rossi",
+    "dimension": "180 m.",
+    "description": "Pellegrino-Louis Edouard Rossi (1787-1848) fut assassiné d'un coup de poignard au cours d'une émeute. Auparavant, il était né en Italie, avait trouvé refuge politique puis était devenu député à Genève, puis professeur au Collège de France et, enfin, ministre des finances du Pape.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "17",
+    "nom": "square Pradier",
+    "tri": "Pradier",
+    "dimension": "252 m.",
+    "description": "Sculpteur né à Genève, Jean-Jacques Pradier (1790-1852), dit James Pradier, s'établit en France, où il obtient de nombreuses commandes officielles, parmi lesquelles les Douze Victoires du tombeau de Napoléon aux Invalides. Fréquemment en visite dans sa ville natale, il est l'auteur de la statue de Rousseau sur l'Île des Barques, ainsi que des bustes de Charles Bonnet, de Sismondi et du général Dufour.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "18",
+    "nom": "rue du Perron",
+    "tri": "Perron",
+    "dimension": "174 m.",
+    "description": "Trait d'union entre la ville basse et la vieille-ville, la rue du Perron est partagée, dans sa partie basse, par un îlot de maisons, le Grand et le Petit Perron.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "19",
+    "nom": "place de Neuve",
+    "tri": "Neuve, place de",
+    "dimension": "273 m. (périmètre)",
+    "description": "Sur l'espace dégagé au XVI<sup>ème<\/sup> siècle par la démolition des faubourgs, il fut aménagé une courtine qui reçut le nom de la porte de la ville située à ce niveau. La place ne prit forme que tardivement et progressivement, avec la destruction de la porte de Neuve en 1853 et la construction du Conservatoire de musique (1858) et du Grand-Théâtre (1879), la cerise étant déposée en 1884 sous la forme de la statue équestre du Général Dufour.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "20",
+    "nom": "rue de Monthoux",
+    "tri": "Monthoux",
+    "dimension": "530 m.",
+    "description": "Le baron Othon de Monthoux (1762-1841), dernier représentant d'une longue dynastie de seigneurs savoyards, acquit en 1808 une propriété aux Pâquis. Lorsqu'en 1859 ses héritiers la cédèrent à la ville de Genève, ils posèrent comme condition qu'une rue porte son nom.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "21",
+    "nom": "square du Mont-Blanc",
+    "tri": "Mont-Blanc, square du",
+    "dimension": "420 m. (longueur totale des allées);<br>3 600 m2 (surface)",
+    "description": "Lové dans le creux du Y que forment le pont, la rue et le quai du Mont-Blanc, le square du Mont-Blanc, carré vert entouré d'immeubles, n'est pas le meilleur endroit pour admirer le sommet des Alpes.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "22",
+    "nom": "parc Mon-Repos",
+    "tri": "Mon-Repos",
+    "dimension": "41400 m<sup>2<\/sup>",
+    "description": "Entourant la villa du même nom (construite en 1848), le parc Mon-Repos promet d'agréables réjouissances aux plus narcissiques de ses visiteurs. Casanova lui-même, dit-on, organisa sous les ombrages des arbres du lieu de voluptueuses soirées libertines.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "23",
+    "nom": "rue Monnier",
+    "tri": "Monnier",
+    "dimension": "151 m.",
+    "description": "Le nom de cette rue rend hommage, bien sûr, au père, Marc Monnier (1829-1885), poète, écrivain, acteur du mouvement libéral italien <em>Risorgimento<\/em>, professeur puis recteur (1878-1880) de l'Université de Genève; mais aussi au fils, Philippe (1864-1911), homme de lettres, <em>Docteur Honoris Causa<\/em> de l'Université de Genève.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "24",
+    "nom": "rue de la Maison-Rouge",
+    "tri": "Maison-Rouge",
+    "dimension": "57 m.",
+    "description": "Rue nommée d'après l'aspect d'une façade aux décors de terre cuite, ?uvre probable du marbrier Joseph Fabrizi.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "25",
+    "nom": "rue de Lausanne",
+    "tri": "Lausanne",
+    "dimension": "1614 m.",
+    "description": "La rue de Lausanne se poursuit par la route de Lausanne avant de déboucher, à Lausanne, sur la route de Genève.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "26",
+    "nom": "chemin de la Gravière",
+    "tri": "Gravière",
+    "dimension": "214 m.",
+    "description": "Son Hôtel de Police, sa Parfumerie. Ce chemin voyait autrefois passer les chargements de graviers que l'on tirait du lit de l'Arve.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "27",
+    "nom": "Grand-Rue",
+    "tri": "Grand-Rue",
+    "dimension": "247 m.",
+    "description": "Colonne vertébrale de la cité à l'époque où Genève était centrée sur la vieille ville. Peut-être la seule rue centrale où deux cabriolets pouvaient se croiser sans ralentir.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "28",
+    "nom": "rue Guillaume-Farel",
+    "tri": "Guillaume-Farel",
+    "dimension": "93 m.",
+    "description": "Guillaume Farel (1489-1565) fut l'un des principaux artisans de l'adoption de la Réforme par le Conseil général de Genève, en 1536. Prédicateur infatigable, il avait servi la Réforme française avant de devenir ministre à Genève. Banni de la cité pour rigorisme excessif après une brouille avec Calvin, il s'établit à Neuchâtel pour terminer son existence en pasteur de cette ville.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "29",
+    "nom": "chemin de Grange-Canal",
+    "tri": "Grange-Canal",
+    "dimension": "828 m.",
+    "description": "Véritable château d'eau de la ville, le quartier témoigne par sa toponymie des innombrables canaux qui le reliaient autrefois à Genève. Au numéro 18, une plaque rappelle le séjour que Jean-Jacques Rousseau effectua en été 1754 dans une petite maison toujours debout.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "30",
+    "nom": "avenue de France",
+    "tri": "France",
+    "dimension": "1156 m.",
+    "description": "L'avenue a longtemps été le point de départ de tout voyage vers la France, ou du moins vers sa capitale (via le col de la Faucille).",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "31",
+    "nom": "rue Fendt",
+    "tri": "Fendt",
+    "dimension": "137 m.",
+    "description": "L'architecte Frédéric-Christian Fendt (1812-1885) fit édifier de nombreux immeubles locatifs à Montbrillant. On lui doit le bâtiment de la machine hydraulique, sur le Pont de la Machine.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "32",
+    "nom": "rue d'Enfer",
+    "tri": "Enfer",
+    "dimension": "42 m.",
+    "description": "Certains mânes de locataires du cimetière de la Madeleine, qui entourait autrefois l'église du même nom, empruntaient cette rue pour rejoindre leur résidence éternelle. D'autres plus méritoires pouvaient quitter les lieux en passant par la rue des limbes, la rue du purgatoire (toujours existante) ou même la rue du Paradis.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "33",
+    "nom": "jetée des Eaux-Vives",
+    "tri": "Eaux-Vives, jetée des",
+    "dimension": "278 m.",
+    "description": "Le quartier des Eaux-Vives a longtemps alimenté Genève en eau grâce à ses innombrables sources, inutilisées aujourd'hui mais glorifiées par le jet d'eau qui jaillit de la jetée du même nom.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "34",
+    "nom": "rue des Délices",
+    "tri": "Delices",
+    "dimension": "354 m.",
+    "description": "Persécuté en Prusse et désireux de ne plus se risquer en France, Voltaire acquit en 1755 la propriété de Saint-Jean à laquelle il donna le nom des \"Délices\". Les autorités de la ville de Genève, où le théâtre n'était pas encore toléré, n'appréciaient guère les soirées théâtrales que Voltaire donnait dans une annexe aménagée, si bien que l'écrivain quitta l'endroit en 1760 pour s'installer à Ferney.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "35",
+    "nom": "passage des Degrés-de-Poule",
+    "tri": "Degrés-de-Poule",
+    "dimension": "43 m.",
+    "description": "Pour la similitude de ses marches avec les perchoirs d'un poulailler, ce passage reçut d'abord le nom de Degrés de poulaille. Il s'agissait à l'origine d'un escalier à ciel ouvert, trait d'union de 12 mètres de dénivelé entre le Bourg-de-Four et Saint-Pierre, qui fut inclus au XVIème siècle dans le corps des bâtiments dits des <q>Granges de l'Hôpital<\/q>.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "36",
+    "nom": "place De-Grenus",
+    "tri": "De-Grenus",
+    "dimension": "145 m.",
+    "description": "Le baron François-Théodore-Louis de Grenus (1785-1851), signa plusieurs publications sur l'histoire régionale. Il fut surtout un riche et généreux donateur: la rue et la place qui portent son nom ont été percées au travers du sordide quartier de Saint-Gervais grâce à des fonds qu'il avait lui-même légués à la ville.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "37",
+    "nom": "place de Cornavin",
+    "tri": "Cornavin",
+    "dimension": "555 m.",
+    "description": "Jusqu'au XV<sup>ème<\/sup> siècle, des vignes épiscopales s'étendaient entre le lac et l'actuelle place de Cornavin. Le nom atteste peut-être d'un emplacement où l'on faisait commerce du vin (corner = appeler, crier).",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "38",
+    "nom": "boulevard de la Cluse",
+    "tri": "Cluse",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "39",
+    "nom": "rue de la Cité",
+    "tri": "Cité",
+    "dimension": "165 m.",
+    "description": "La rue de la Cité n'était pas la rue centrale de la ville, mais plutôt celle qui conduisait à la Cité depuis le pont du Rhône.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "40",
+    "nom": "rue Cingria",
+    "tri": "Cingria",
+    "dimension": "113 m.",
+    "description": "Lequel des deux frères Cingria mérite une rue à son nom dans sa ville natale? Charles Albert (1882-1954), écrivain inclassable, ou son aîné Alexandre (1879-1945), peintre et mosaïste? L'administration n'a pas tranché: à chaque passant d'accoler le prénom de son choix au nom de cette petite rue tranquille.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "41",
+    "nom": "rue Chausse-Coq",
+    "tri": "Chausse-Coq",
+    "dimension": "80 m.",
+    "description": "Les cordonniers installés dans cette rue chaussaient principalement ceux qu'on appelait les Coqs, ces libertins fréquentant les lupanars du quartier. Autre version, plus imagée, de l'étymologie du nom de cette rue: Chausse-coq ne serait que l'altération de Chausse-Con, référence directe à l'activité principale de ce quartier de débauche.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "42",
+    "nom": "route de Chancy",
+    "tri": "Chancy",
+    "dimension": "13144 m.",
+    "description": "Cette artère aurait pu s'appeler route de Lancy, de Bernex, d'Onex ou d'Avusy, mais c'est Chancy, la plus éloignée des communes de la rive gauche du Rhône, toutes desservies par cet axe, qui lui a donné son nom.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "43",
+    "nom": "rue de Carouge",
+    "tri": "Carouge",
+    "dimension": "1071 m.",
+    "description": "La Rue de Carouge est sans doute l'une des quatre voies dont témoigne le nom latin <em>Quadruvium<\/em> déformé par le temps en Carouge.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "44",
+    "nom": "boulevard Carl-Vogt",
+    "tri": "Vogt, bouldevard Carl-",
+    "dimension": "1131 m.",
+    "description": "Carl Vogt (1817-1895): paléontologue, homme politique, anatomiste et zoologue naturalisé genevois. Il participe grandement à la création de la faculté de médecine qui permet de donner naissance à la nouvelle Université de Genève (successeur de l'Académie) dont il est le premier recteur.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "45",
+    "nom": "place de Bourg-de-Four",
+    "tri": "Bourg-de-Four",
+    "dimension": "269 m. (périmètre)",
+    "description": "La topographie du lieu en a fait un lieu naturel de convergence, d'abord de sentiers, puis de routes, enfin de rues. Les Romains en auraient fait leur forum, dont la place actuelle aurait hérité le nom. Selon une autre étymologie, le nom de Bourg-de-Four (Borg de Feur, bourg en dehors) témoignerait d'un temps où la place était en dehors des murs de la cité.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "46",
+    "nom": "avenue Blanc",
+    "tri": "Blanc",
+    "dimension": "627 m.",
+    "description": "Le baron Pierre-Antoine-Jules Blanc (1820-1911), après une carrière de cadre dans l'industrie de la soie en Haute-Savoie, déploya son énergie à faire obstacle au rattachement de la Savoie du Nord à la Confédération suisse. Le projet contrecarré, il s'installa en 1870 dans une cossue propriété de Sécheron où il se plongea dans des réflexions philosophiques et religieuses.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "47",
+    "nom": "rue de Berne",
+    "tri": "Berne",
+    "dimension": "693 m.",
+    "description": "Anciennement rue de l'Entrepôt, du nom du bâtiment qui se dressait à l'endroit où fut construit en 1892 la poste du Mont-Blanc.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "48",
+    "nom": "rue des Amis",
+    "tri": "Amis",
+    "dimension": "68 m.",
+    "description": "En 1887, le Conseil administratif de la ville de Genève propose de rendre officiel le nom de \"rue des Amis\" que lui avaient déjà donné ses habitants.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "49",
+    "nom": "rue Maunoir",
+    "tri": "Maunoir",
+    "dimension": "395 m.",
+    "description": "Cette rue porte le nom de la famille Maunoir, famille d'origine bretonne établie à Genève en 1777, dont certains représentants ont porté haut le nom de Genève: Jean-Charles Maunoir-Senn (1796-1874), Jean-Pierre (1768-1861), Charles-Théophile (1775-1830), Théodore (1806-1969), l'un des fondateurs de la Croix-Rouge, ou Edouard-Albert (1863-1919), conseiller d'État de 1903 à 1915?",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "50",
+    "nom": "rue De-Warens",
+    "tri": "De-Warens",
+    "dimension": "98 m.",
+    "description": "Françoise-Louise de la Tour, alias Mme de Warens (du nom de la propriété de son mari près de Vevey, orthographié également Vuarrens), était une femme libérale à laquelle Rousseau, qui l'appelait <q>maman<\/q>, a rendu hommage dans la dixième promenade de ses <span class=\"ouvrage\">Rêveries<\/span>.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "51",
+    "nom": "place des Augustins",
+    "tri": "Augustins",
+    "dimension": " 2 300 m2",
+    "description": "Le 9 août 1935 furent pillés, au bénéfice de la ville, les derniers objets ? cloche fondue, bijoux revendus ? d'un couvent fondé dans le secteur au siècle précédent par des frères de l'Ordre des mendiants des ermites de Saint-Augustin.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "52",
+    "nom": "rue du Mandement",
+    "tri": "Mandement, rue du",
+    "dimension": "247 m.",
+    "description": "Les mandements genevois étaient les territoires appartenant personnellement à l'évêque. Aujourd'hui, on nomme <q>mandement<\/q> les trois communes de Satigny, Russin et Dardagny.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "53",
+    "nom": "Jardin-Anglais",
+    "tri": "Jardin-Anglais",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "54",
+    "nom": "rue des Barrières",
+    "tri": "Barrières",
+    "dimension": "96 m.",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "55",
+    "nom": "parc la Grange",
+    "tri": "Grange",
+    "dimension": "3522m (longueur totale des allées);<br \/> 213 097 m<sup>2<\/sup>",
+    "description": "Le dernier propriétaire du parc, William Favre, a demandé en le léguant à la ville en 1918 qu'il reste fermé du coucher au lever du soleil ? depuis, chaque soir, une cloche invite les promeneurs à rejoindre les grilles.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "56",
+    "nom": "chemin du Champ-des-Filles",
+    "tri": "Champ-des-Filles, chemin",
+    "dimension": "888 m.",
+    "description": "L'éthymologie du lieu-dit est incertaine. S'agirait-il du champ qu'un propriétaire aurait donnée en héritage à ses filles? Ne serait-ce pas une déformation des fées, faie, faye du latin \"feta\", c'est-à-dire brebis qui vient d'agneler?",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "57",
+    "nom": "boulevard du Pont-d'Arve",
+    "tri": "Pont-d'Arve",
+    "dimension": "606 m.",
+    "description": "Le pont d'Arve, aujourd'hui Pont des Acacias, marquait la limite des Franchises de la République.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "58",
+    "nom": "pont de la Coulouvrenière",
+    "tri": "Coulouvrenière",
+    "dimension": "191 m.",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "59",
+    "nom": "quai Gustave-Ador",
+    "tri": "Ador",
+    "dimension": "3812m. (total des deux voies, routière et piétonne en contrebas)",
+    "description": "La Suisse doit beaucoup au Genevois Gustave Ador, homme politique de stature internationale, Conseiller fédéral entre 1917 et 1919, dont la persévérance permit d'obtenir la siège de la SDN à Genève et la reconnaissance du statut particulier de neutralité de la Suisse.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "60",
+    "nom": "avenue de Sécheron",
+    "tri": "Secheron",
+    "dimension": "218 m.",
+    "description": "Cette zone reçut probablement son nom, attesté dès 1310, de sa remarquablement sècheresse, par rapport aux abords directs du lac, humides et marécageux.\r\n",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "61",
+    "nom": "quai du Général-Guisan",
+    "tri": "Guisan",
+    "dimension": "696 m.",
+    "description": "Le Vaudois Henri Guisan (1874-1960) est le dernier Suisse à avoir porté le titre de général - attribué uniquement en temps de guerre - entre 1939 et 1945.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "62",
+    "nom": "rue du Quartier-Neuf",
+    "tri": "Quartier-Neuf",
+    "dimension": "142 m.",
+    "description": "Le quartier de la Jonction était un nouveau quartier au tournant des XIX<sup>ème<\/sup> et XX<sup>ème<\/sup> siècles.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "63",
+    "nom": "avenue de la Jonction",
+    "tri": "Jonction, avenue de la",
+    "dimension": "473m.",
+    "description": "Le quartier de la Jonction, qui tire son nom de sa situation, proche de la confluence du Rhône et de l'Arve, a gagné au XIX<sup>ème<\/sup>sur les terres maraîchères pour devenir un secteur industriel jusque dans les années 70 du XX<sup>ème<\/sup>siècle.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "64",
+    "nom": "carrefour de la Jonction",
+    "tri": "Jonction, carrefour de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "65",
+    "nom": "rue François-Le-Fort",
+    "tri": "Le-Fort, rue François",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "66",
+    "nom": "promenade du Lac",
+    "tri": "Lac",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "67",
+    "nom": "passage de Montbrillant",
+    "tri": "Montbrillant",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "68",
+    "nom": "rue de l'Orangerie",
+    "tri": "Orangerie",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "69",
+    "nom": "avenue de la Roseraie",
+    "tri": "Roseraie",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "70",
+    "nom": "terrasse de Saint-Victor",
+    "tri": "Saint-Victor",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "71",
+    "nom": "rue Pierre-Fatio",
+    "tri": "Fatio",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "72",
+    "nom": "rue des Alpes",
+    "tri": "Alpes",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "73",
+    "nom": "avenue de la Gare des Eaux-Vives",
+    "tri": "Gare des Eaux-Vives, avenue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "74",
+    "nom": "pont Butin",
+    "tri": "Butin",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "75",
+    "nom": "avenue du Mail",
+    "tri": "Mail",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "76",
+    "nom": "barrage du Seujet",
+    "tri": "Seujet, barrage du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "77",
+    "nom": "place des Volontaires",
+    "tri": "Volontaires",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "78",
+    "nom": "quai Besançon-Hugues",
+    "tri": "Hugues",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "79",
+    "nom": "pont des Bergues",
+    "tri": "Bergues, pont des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "80",
+    "nom": "pont de l'Île",
+    "tri": "Ile, pont de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "81",
+    "nom": "plaine de Plainpalais",
+    "tri": "Plainpalais, plaine de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "82",
+    "nom": "carrefour de l'Étoile",
+    "tri": "Etoile, carrefour",
+    "dimension": "29 m.",
+    "description": "En regard des douze branches mégalomanes d'Haussmann, fouillis rayonnant du carrefour parisien du même nom, les quatre du carrefour genevois paraissent bien modestes, mais traduisent une vision spatiale hautement symbolique et axée sur les points cardinaux.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "83",
+    "nom": "rue Merle-d'Aubigné",
+    "tri": "Merle-d'Aubigné",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "84",
+    "nom": "route du Mandement",
+    "tri": "Mandement, route du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "85",
+    "nom": "rue de la Servette",
+    "tri": "Servette, rue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "86",
+    "nom": "rue de la Poterie",
+    "tri": "Poterie, rue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "87",
+    "nom": "parc des Bastions",
+    "tri": "Bastions, parc des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "88",
+    "nom": "place de Bel-Air",
+    "tri": "Bel-Air, place de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "89",
+    "nom": "place de la Taconnerie",
+    "tri": "Taconnerie, place de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "90",
+    "nom": "quai des Bergues",
+    "tri": "Bergues, quai des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "91",
+    "nom": "place Kléberg",
+    "tri": "Kléberg, place",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "92",
+    "nom": "place Petite-Fusterie",
+    "tri": "Petite-Fusterie, place",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "93",
+    "nom": "rue Rousseau",
+    "tri": "Rousseau, rue",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "94",
+    "nom": "passerelle de l'Île",
+    "tri": "Ile, passerelle de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "95",
+    "nom": "pont de l'Île-Rousseau",
+    "tri": "Ile-Rousseau, pont de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "96",
+    "nom": "quai de l'Île",
+    "tri": "Île, quai de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "97",
+    "nom": "rue de la Tertasse",
+    "tri": "Tertasse",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "98",
+    "nom": "place du Grand-Mézel",
+    "tri": "Grand-Mézel, place du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "99",
+    "nom": "chemin des Fleurettes",
+    "tri": "Fleurettes, chemin des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "100",
+    "nom": "chemin Frank-Thomas",
+    "tri": "Thomas, chemin Frank-",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "101",
+    "nom": "rue du Colombier",
+    "tri": "Colombier, rue du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "102",
+    "nom": "route de Saint-Julien",
+    "tri": "Saint-Julien, route de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "103",
+    "nom": "boulevard des Promenades",
+    "tri": "Promenades, boulevard des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "104",
+    "nom": "place de Saint-Gervais",
+    "tri": "Saint-Gervais, place de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "105",
+    "nom": "rue Benjamin-Franklin",
+    "tri": "Franklin, rue Benjamin",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "106",
+    "nom": "rue de la Croix-d'Or",
+    "tri": "Croix-d'Or, rue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "107",
+    "nom": "rue David-Dufour",
+    "tri": "Dufour, rue David-",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "108",
+    "nom": "rue de Hollande",
+    "tri": "Hollande, rue de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "109",
+    "nom": "rue de Coutance",
+    "tri": "Coutance, rue de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "110",
+    "nom": "jetée des Pâquis",
+    "tri": "Pâquis, jetée des",
+    "dimension": "",
+    "description": "Qui ne l'a pas un jour empruntée pour se jeter dans l'eau fraîche depuis le plongeoir des Bains, avant de s'en jeter un à la buvette?",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "111",
+    "nom": "avenue Louis-Casaï",
+    "tri": "Casaï, avenue Louis-",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "112",
+    "nom": "promenade des Lavandières",
+    "tri": "Lavandières, promenade des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "113",
+    "nom": "quai des Moulins",
+    "tri": "Moulins, quai des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "114",
+    "nom": "rue du 31-Décembre",
+    "tri": "31-Décembre, rue du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "115",
+    "nom": "parc Tremblay",
+    "tri": "Tremblay, parc",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "116",
+    "nom": "quai Turrettini",
+    "tri": "Turrettini, quai",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "117",
+    "nom": "viaduc de la Jonction",
+    "tri": "Jonction, viaduc de la",
+    "dimension": "218 m.",
+    "description": "Construit en 1945, ce pont ferroviaire et piéton permettant de relier les gares de Cornavin et de la Praille est en passe de devenir un des éléments clé du projet de liaison transfontalière CEVA.",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "118",
+    "nom": "île Rousseau",
+    "tri": "Rousseau, ile",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "119",
+    "nom": "rue de la Fontaine",
+    "tri": "Fontaine, rue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "120",
+    "nom": "rue des Bains",
+    "tri": "Bains, rue des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "148",
+    "nom": "rue Lissignol",
+    "tri": "Lissignol, rue",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "122",
+    "nom": "pont du Mont-Blanc",
+    "tri": "Mont-Blanc, pont du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "123",
+    "nom": "quai du Mont-Blanc",
+    "tri": "Mont-Blanc, quai du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "124",
+    "nom": "rue du Village-Suisse",
+    "tri": "Village-Suisse, rue du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "125",
+    "nom": "rue des Usines",
+    "tri": "Usines, rue des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "126",
+    "nom": "rue de la Gabelle",
+    "tri": "Gabelle, rue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "127",
+    "nom": "rue des Peupliers",
+    "tri": "Peupliers, rue des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "129",
+    "nom": "rue des Corps-Saints",
+    "tri": "Corps-Saints, rue des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "130",
+    "nom": "rue des Pâquis",
+    "tri": "Pâquis, rue des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "131",
+    "nom": "boulevard des Philosophes",
+    "tri": "Philosophes, boulevard des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "147",
+    "nom": "rue des Acacias",
+    "tri": "Acacias, rue des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "134",
+    "nom": "rue du Léman",
+    "tri": "Léman, rue du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "135",
+    "nom": "rue Saint-Léger",
+    "tri": "Saint-Léger, rue",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "136",
+    "nom": "rue Louis-Favre",
+    "tri": "Favre, rue Louis-",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "137",
+    "nom": "rue des Grottes",
+    "tri": "Grottes, rue des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "138",
+    "nom": "chemin de Sous-Bois",
+    "tri": "Sous-Bois, chemin de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "139",
+    "nom": "rue de la Pépinière",
+    "tri": "Pépinière, rue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "140",
+    "nom": "place du Cirque",
+    "tri": "Cirque, place du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "141",
+    "nom": "terrasse Agrippa-d'Aubigné",
+    "tri": "Agrippa-d'Aubigné, terrasse",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "142",
+    "nom": "avenue de la Paix",
+    "tri": "Paix, avenue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "143",
+    "nom": "boulevard Helvétique",
+    "tri": "Helvétique, boulevard",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "144",
+    "nom": "pont de la Machine",
+    "tri": "Machine, pont de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "145",
+    "nom": "place de Sardaigne",
+    "tri": "Sardaigne, place de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "146",
+    "nom": "rue du Soleil-Levant",
+    "tri": "Soleil-Levant, rue du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "149",
+    "nom": "rue de la Taconnerie",
+    "tri": "Taconnerie, rue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "150",
+    "nom": "gare Sécheron",
+    "tri": "Sécheron, gare",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "151",
+    "nom": "rue du Môle",
+    "tri": "Mole, rue du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "152",
+    "nom": "rue de Zurich",
+    "tri": "Zurich, rue de",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "153",
+    "nom": "place du Molard",
+    "tri": "Molard, place du",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "154",
+    "nom": "place des Nations",
+    "tri": "Nations, place des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "155",
+    "nom": "avenue de la Forêt",
+    "tri": "Forêt, avenue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "156",
+    "nom": "rue de l'Industrie",
+    "tri": "Industrie, rue de l'",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "157",
+    "nom": "place des Philosophes",
+    "tri": "Philosophes, place des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "158",
+    "nom": "rue Leschot",
+    "tri": "Leschot, rue",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "159",
+    "nom": "rue de la Tour-Maîtresse",
+    "tri": "Tour-Maîtresse, rue de la",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "160",
+    "nom": "rue Sillem",
+    "tri": "Sillem, rue",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "161",
+    "nom": "boulevard James-Fazy",
+    "tri": "Fazy, boulevard James-",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "162",
+    "nom": "rue des Rois",
+    "tri": "Rois, rue des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "163",
+    "nom": "rue Charles-Humbert",
+    "tri": "Humbert, rue Charles-",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "164",
+    "nom": "chemin des Chânats",
+    "tri": "Chânats",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+},
+{
+    "id_rue": "165",
+    "nom": "chemin des Colombettes",
+    "tri": "Colombettes, chemin des",
+    "dimension": "",
+    "description": "",
+    "polygone": "",
+    "z_index": "0"
+}
+]
+
+}
+]
