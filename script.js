@@ -1,28 +1,3 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>to test js</title>
-</head>
-<body>
-  <template id="tml">
-    <div class="box">
-      <h3>hello</h3>
-      <p>world</p>
-    </div>
-  </template>
-  <ul>
-    <li><a href="#contributions">contributions</a></li>
-    <li><a href="#personnes">personnes</a></li>
-    <li><a href="#rues">rues</a></li>
-  </ul>
-  <div id="container">
-
-  </div>
-    <pre>
-
-    </pre>
-    <script>
 const initFile = 'contributions.json'
 const pre = document.querySelector('pre')
 const templateContent = document.querySelector('#tml').content
@@ -65,8 +40,3 @@ function getData(file) {
 
 getData(initFile)
 
-
-
-    </script>
-</body>
-</html>
